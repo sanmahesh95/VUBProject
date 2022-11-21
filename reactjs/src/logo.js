@@ -1,0 +1,1 @@
+export background-image: url('/../images/bgimage.jpg');
